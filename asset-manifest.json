@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weight-loss-tracker/static/css/main.25107a60.css",
+    "main.js": "/weight-loss-tracker/static/js/main.67ff4312.js",
+    "index.html": "/weight-loss-tracker/index.html",
+    "main.25107a60.css.map": "/weight-loss-tracker/static/css/main.25107a60.css.map",
+    "main.67ff4312.js.map": "/weight-loss-tracker/static/js/main.67ff4312.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25107a60.css",
+    "static/js/main.67ff4312.js"
+  ]
+}
