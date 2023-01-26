@@ -8,13 +8,13 @@ App built using React
 
 Go to your terminal and cd into the directory you wish to install this app to
 
-type in npx create-react-app weight-loss-tracker
+cd into the weight-loss-tracker folder
 
-once this is complete, cd into the weight-loss-tracker folder
+git clone this repo and in the terminal type npm install to get all of the dependencies
 
-git clone this repo and in the terminal type npm start and enjoy.
+finally, type npm start and enjoy.
 
-feel free to make edits to this project, there will also be a version with a full backend coming soon, though that code will be private and hosted online for anyone to use the app itself.
+Feel free to make edits to this project, there will also be a version with a full backend coming soon, though that code will be private and hosted online for anyone to use the app itself.
 
 # Usage
 
