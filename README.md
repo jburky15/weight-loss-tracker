@@ -20,7 +20,7 @@ The weight is initialzed to 0, so you will want to set the current date and your
 
 From there, you can select a date using the date picker and add a positive (weight gain) or negative (weight loss) number to adjust your weight in the tracker. It is recommended that you do this once a week for the best results!
 
-- Please note: this version does not actually track your weight gains/losses over time unless it remains open which is not recommended. If you wish to have it keep track of your weight, feel free to build out your own backend for it, or check out the full version at this.site@isntupyet.com.
+- Please note: this version does not actually track your weight gains/losses over time unless it remains open which is not recommended. If you wish to have it keep track of your weight, feel free to build out your own backend for it, or check out the full version at https://jburky15.github.io/weight-loss-tracker/
 
 # Changes (to be made) as of 6/23
 
