@@ -22,9 +22,7 @@ From there, you can select a date using the date picker and add a positive (weig
 
 - Please note: this version does not actually track your weight gains/losses over time unless it remains open which is not recommended. If you wish to have it keep track of your weight, feel free to build out your own backend for it, or check out the full version at this.site@isntupyet.com.
 
-# Changes (to be made) as of 12/22
-
-- Add local storage for temporary save state
+# Changes (to be made) as of 6/23
 
 - Add Node backend and a DB for actual storage of data
 
