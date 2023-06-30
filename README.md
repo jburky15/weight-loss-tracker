@@ -12,7 +12,7 @@ git clone this repo and in the terminal type npm install to get all of the depen
 
 finally, type npm start and enjoy.
 
-Feel free to make edits to this project, there will also be a version with a full backend coming soon, though that code will be private and hosted online for anyone to use the app itself.
+Feel free to make edits to this project.
 
 # Usage
 
