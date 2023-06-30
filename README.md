@@ -24,6 +24,4 @@ From there, you can select a date using the date picker and add a positive (weig
 
 # Changes (to be made) as of 6/23
 
-- Added Local Storage
-
 - Add dark/light mode ??
